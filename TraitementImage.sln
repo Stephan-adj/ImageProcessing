@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblèmeScientifique", "ProblèmeScientifique\ProblèmeScientifique.csproj", "{EED34F05-EF65-4871-8BD5-34716BDC0D5A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraitementImage", "TraitementImage\TraitementImage.csproj", "{EED34F05-EF65-4871-8BD5-34716BDC0D5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

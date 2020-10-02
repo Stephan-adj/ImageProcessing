@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{EED34F05-EF65-4871-8BD5-34716BDC0D5A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ProblèmeScientifique</RootNamespace>
-    <AssemblyName>ProblèmeScientifique</AssemblyName>
+    <RootNamespace>TraitementImage</RootNamespace>
+    <AssemblyName>TraitementImage</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
